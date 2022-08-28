@@ -1,5 +1,7 @@
 # C-program-1
-Program to initialize a matrix of order m x n, with value equal to sum of their indices.
+# Program to initialize a matrix of order m x n, with value equal to sum of their indices.
+
+
 #include <stdio.h>
     int main ()
     {
